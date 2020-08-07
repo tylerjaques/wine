@@ -2,14 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47726f88-0306-472b-a050-e0d03e1c1c0d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/c/3c84dcdc6bbe3d7817c49dcdc327b926fea1808a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/9/69e3bd8ddf957a32ec5a3b80a87f8cc4bfe36a27" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/c/bc3c68e880d1a01632bce79f69dd1387c7ba9c54" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/wine-book.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/wine.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/database.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
       <executable />
@@ -17,6 +27,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -152,7 +165,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596829141794</updated>
-      <workItem from="1596829144763" duration="3055000" />
+      <workItem from="1596829144763" duration="3310000" />
+      <workItem from="1596832567247" duration="574000" />
+      <workItem from="1596833428297" duration="2118000" />
     </task>
     <servers />
   </component>
@@ -164,5 +179,9 @@
       <screen x="-1080" y="-108" width="1080" height="1880" />
     </state>
     <state x="-784" y="621" key="#com.intellij.fileTypes.FileTypeChooser/0.1080.1920.1040/-1080.-108.1080.1880/0.0.1920.1040@-1080.-108.1080.1880" timestamp="1596829397828" />
+    <state x="-877" y="327" width="672" height="678" key="search.everywhere.popup" timestamp="1596833741084">
+      <screen x="-1080" y="-108" width="1080" height="1880" />
+    </state>
+    <state x="-877" y="327" width="672" height="678" key="search.everywhere.popup/0.1080.1920.1040/-1080.-108.1080.1880/0.0.1920.1040@-1080.-108.1080.1880" timestamp="1596833741084" />
   </component>
 </project>
